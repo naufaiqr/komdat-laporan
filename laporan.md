@@ -23,3 +23,31 @@ cooKING adalah sebuah aplikasi berbasis web yang dapat digunakan untuk mencari d
 - Buka browser dan ketik `localhost/(nama folder program)`
 
 ### Hosting
+- Buka laman web penyedia jasa hosting di browser
+- Pergi ke Control Panel (cPanel) dalam web hosting
+<img width="779" alt="image" src="https://github.com/naufaiqr/komdat-laporan/assets/100478607/6d893162-3fca-4a6d-8643-7cbaeaa1b219">
+
+- Buka file manager untuk web di cPanel dalam direktori `public_html`
+<img width="265" alt="image" src="https://github.com/naufaiqr/komdat-laporan/assets/100478607/84b15634-4b96-428b-8595-2165cbab7fc0">
+
+- Upload file program (upload dalam bentuk ZIP untuk memudahkan proses)
+- Ekstrak file ZIP
+
+### Connect Database & Website (PHPMyAdmin)
+- Pilih “MySQL Databases” untuk membuat database baru
+  <img width="655" alt="image" src="https://github.com/naufaiqr/komdat-laporan/assets/100478607/2840bc8f-0c0b-4b6e-b781-f51e6631bc69">
+
+- Buat Database baru
+<img width="751" alt="image" src="https://github.com/naufaiqr/komdat-laporan/assets/100478607/4b42aa61-45ea-456d-b46c-d59e9864da0b">
+
+- Buat user yang akan digunakan untuk diberi akses ke Database (user admin)
+<img width="595" alt="image" src="https://github.com/naufaiqr/komdat-laporan/assets/100478607/e2e64560-decf-48dd-8c8b-4831aca58f8a">
+
+- Kembali ke halaman awal cPanel
+- Pilih `PHPMyAdmin` untuk mengakses *control* database
+- Database baru akan muncul
+- Import file database yang sudah disiapkan ke dalam database yang baru dibuat di `PHPMyAdmin`
+<img width="856" alt="image" src="https://github.com/naufaiqr/komdat-laporan/assets/100478607/c1a84cb3-c37b-4310-b08c-b577d11395a6">
+
+
+
