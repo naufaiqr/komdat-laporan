@@ -6,9 +6,20 @@ cooKING adalah sebuah aplikasi berbasis web yang dapat digunakan untuk mencari d
 
 ### Fitur-fitur
 - Sign Up & Sign In
+
+  Pengguna dapat membuat akun dan masuk ke akun tersebut untuk mengakses fitur web lainnya.
 - Cari resep
+
+  Pengguna dapat mencari resep dengan mengetikkan kata kunci atau nama dari resep makanan yang ingin dicari.
 - Filtering resep
-- Upload dan hapus resep
+
+  Pengguna dapat mencari resep berdasarkan kategori makanan yang disediakan, yaitu `appetizer`, `main dish`, `dessert`, dan `drinks`.
+- Unggah dan hapus resep
+
+  Pengguna dapat mengunggah resep pribadi dan menghapus resep yang sudah diunggah sesuai kehendak.
+- Hapus akun
+
+  Pengguna dapat menghapus akun yang digunakan saat ini.
 
 ### System Requirement (Local)
 - File program cooKING
@@ -52,13 +63,13 @@ cooKING adalah sebuah aplikasi berbasis web yang dapat digunakan untuk mencari d
 
 ### Cara Pemakaian
 Cara pemakaian webApps ini cukup sederhana karena fitur-fitur yang ada mudah dipahami untuk langsung digunakan.
-1. Pengguna dapat langsung melakukan pencarian terhadap resep yang ingin ditemukan pada web tanpa harus melakukan sign up/login dahulu. Selain itu, pengguna juga dapat langsung melihat resep-resep yang baru diunggah oleh pengguna lain.
+1. Pengguna dapat langsung melakukan pencarian terhadap resep yang ingin ditemukan pada web tanpa harus melakukan `sign up`/`sign in` dahulu. Selain itu, pengguna juga dapat langsung melihat resep-resep yang baru diunggah oleh pengguna lain.
 
-2. Untuk mengunggah suatu resep, pengguna harus memiliki akun dahulu (sign up).
+2. Untuk mengunggah suatu resep, pengguna harus memiliki akun dahulu (`sign up`).
 
-3. Apabila pengguna sudah memiliki akun, pengguna harus masuk ke akun yang dimiliki (sign in/login).
+3. Apabila pengguna sudah memiliki akun, pengguna harus masuk ke akun yang dimiliki (`sign in`).
   
-4. Pengguna dapat mengunjungi bagian profile untuk melakukan perubahan terhadap akun dan mengunggah resep. Pengguna juga dapat menghapus akun yang dimiliki.
+4. Pengguna dapat mengunjungi bagian `profile` untuk melakukan perubahan terhadap akun dan mengunggah resep. Pengguna juga dapat menghapus akun yang dimiliki.
 
 5. Berikut ini formulir yang harus diisi ketika ingin mengunggah resep.
 
