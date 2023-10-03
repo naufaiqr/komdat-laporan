@@ -74,4 +74,9 @@ Cara pemakaian webApps ini cukup sederhana karena fitur-fitur yang ada mudah dip
 5. Berikut ini formulir yang harus diisi ketika ingin mengunggah resep.
 
 ### Pembahasan
-kelebihan dan kekurangan
+Kelebihan:
+- Bisa mendapatkan dan mengumpulkan resep dri manapun.
+- Pencarian menjadi lebih mudah dengan fitur `Filter Kategori`.
+  
+Kekurangan:
+- Resep harus ditulis manual oleh user. Jika user tidak memasukan input, maka tidak ada resepnya karena tidak otomatis terkumpul diambil dari internet.
