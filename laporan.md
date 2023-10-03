@@ -63,7 +63,7 @@ cooKING adalah sebuah aplikasi berbasis web yang dapat digunakan untuk mencari d
 
 ### Cara Pemakaian
 Cara pemakaian webApps ini cukup sederhana karena fitur-fitur yang ada mudah dipahami untuk langsung digunakan.
-1. Pengguna dapat langsung melakukan pencarian terhadap resep yang ingin ditemukan pada web tanpa harus melakukan `sign up`/`sign in` dahulu. Selain itu, pengguna juga dapat langsung melihat resep-resep yang baru diunggah oleh pengguna lain.
+1. Pengguna dapat langsung melakukan pencarian terhadap resep yang ingin ditemukan pada web tanpa harus melakukan `sign up`/`sign in` dahulu. Selain itu, pengguna juga dapat langsung melihat resep-resep yang baru diunggah oleh pengguna lain di `home` atau mengunjungi menu `category`.
 
 2. Untuk mengunggah suatu resep, pengguna harus memiliki akun dahulu (`sign up`).
 
